@@ -1,8 +1,8 @@
 var assign = require('object-assign');
 var markup = '~';
 
-hexo.config.sup = assign({ markup: markup }, hexo.config.sup);
-var placeholder = (hexo.config.sup.markup || markup)
+hexo.config.sub = assign({ markup: markup }, hexo.config.sub);
+var placeholder = (hexo.config.sub.markup || markup)
   .split('')
   .map(function (char) {
     return '\\' + char;
