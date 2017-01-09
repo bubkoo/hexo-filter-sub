@@ -5,7 +5,7 @@
 [![npm:](https://img.shields.io/npm/v/hexo-filter-sub.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-sub)
 [![Package Quality](http://npm.packagequality.com/shield/hexo-filter-sub.svg)](http://packagequality.com/#?package=hexo-filter-sub)
 
-> Subscript (`<sub>`) tag filter for hexo.
+> Subscript (`<sub>`) tag filter for Hexo.
 
 ## Install
 
