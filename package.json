@@ -1,0 +1,28 @@
+{
+  "name": "hexo-filter-sub",
+  "version": "1.0.0",
+  "description": "> Subscript (`<sub>`) tag filter for hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/hexo-filter-sub.git"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "markdown",
+    "sub"
+  ],
+  "author": {
+    "name": "bubkoo.wy",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bubkoo/hexo-filter-sub/issues"
+  },
+  "homepage": "https://github.com/bubkoo/hexo-filter-sub#readme"
+}

@@ -1,2 +1,33 @@
 # hexo-filter-sub
-Subscript (&lt;sub>) tag filter for hexo.
+
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/hexo-filter-sub/blob/master/LICENSE)
+
+[![npm:](https://img.shields.io/npm/v/hexo-filter-sub.svg?style=flat-square)](https://www.npmjs.com/packages/hexo-filter-sub)
+[![Package Quality](http://npm.packagequality.com/shield/hexo-filter-sub.svg)](http://packagequality.com/#?package=hexo-filter-sub)
+
+> Subscript (`<sub>`) tag filter for hexo.
+
+## Install
+
+```node
+npm install --save hexo-filter-sub
+```
+
+## Usage
+
+`H~2~0` => `H<sub>2</sub>O`
+
+The default markup is based on [pandoc](http://johnmacfarlane.net/pandoc/README.html#superscripts-and-subscripts) definition. But nested markup is currently not supported.
+
+Markup can be specified as follow in you `_config.yml`:
+
+```
+sub:
+  markup: '$'
+```
+
+## Contributing
+
+Pull requests and stars are highly welcome.
+
+For bugs and feature requests, please [create an issue](https://github.com/bubkoo/hexo-filter-sub/issues/new).
