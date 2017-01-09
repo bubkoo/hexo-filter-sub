@@ -23,8 +23,6 @@ function parse(data) {
   data.content = data.content.replace(reg, function (raw, content) {
     return '<sub>' + content + '</sub>';
   });
-
-  console.log(data.content);
 }
 
 hexo.extend.filter.register('before_post_render', parse, 9);
