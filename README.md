@@ -26,7 +26,7 @@ sub:
   markup: '$'
 ```
 
-Related
+## Related
 
  - [hexo-filter-sup](https://github.com/bubkoo/hexo-filter-sup) Superscript (`<sup>`) tag filter for hexo.
  - [hexo-filter-fenced-code](https://github.com/bubkoo/hexo-filter-fenced-code) Extend syntax for the native fenced code block.
