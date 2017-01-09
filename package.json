@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/bubkoo/hexo-filter-sub/issues"
   },
-  "homepage": "https://github.com/bubkoo/hexo-filter-sub#readme"
+  "homepage": "https://github.com/bubkoo/hexo-filter-sub#readme",
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  }
 }
