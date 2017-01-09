@@ -1,7 +1,7 @@
 {
   "name": "hexo-filter-sub",
   "version": "1.0.0",
-  "description": "> Subscript (`<sub>`) tag filter for Hexo.",
+  "description": "Generate subscript (`<sub>`) tag for Hexo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
